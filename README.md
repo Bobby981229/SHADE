@@ -7,7 +7,7 @@ SHADE Project
 
 能耗由不同设备和系统的能耗组成。每个设备或系统的能耗可以表示为功率（千瓦，kW）乘以用电时间（小时，h）。具体来说：
 
-\[ E_{total} = E_{elec} + E_{gas} + E_{oil} + E_{renew} \]
+\E_{total} = E_{elec} + E_{gas} + E_{oil} + E_{renew} \
 
 ##### 电能消耗 (E_{elec})
 
